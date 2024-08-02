@@ -13,5 +13,4 @@ This is a simple order management application built using Python and Tkinter.
 2. Install required packages (Tkinter).
 3. Run the `order_management.py` script.
 
-## License
-This project is licensed under the MIT License.
+
